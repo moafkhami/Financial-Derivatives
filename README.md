@@ -1,4 +1,4 @@
 # Financial-Derivatives
-Pricing financial derivatives in Python.
+## Pricing financial derivatives in Python.
 
-First update coming Jul 21st.
+Each notebook contains implementation and examples of different methods used in derivate pricing. Most of the code are my solutions to the FE621 course assignments in Fall 2017.
