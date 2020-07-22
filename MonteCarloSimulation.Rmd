@@ -1,9 +1,9 @@
 ---
 title: "Monte Carlo Simulation"
 #author: "Mohamad Afkhami"
-#date: "7/22/2020"
+
 output:
-  #html_document: default
+  
   pdf_document: default
 header-includes:
   \usepackage{amsmath,amsthm,amssymb,amsfonts}
