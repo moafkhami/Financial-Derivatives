@@ -517,14 +517,3 @@ for(j in 1:m){
 r=mean(r)
 disc=exp(-r*tau)
 price=Sum_CT/m*disc
-#print(price)
-```
-
-```{r}
-
-```
-
-```{r}
-
-```
-
