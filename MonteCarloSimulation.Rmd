@@ -1,11 +1,9 @@
 ---
 title: "Monte Carlo Simulation"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
- 
+#author: "Mohamad Afkhami"
+output:
+  #html_document: default
+  pdf_document: default
 header-includes:
   \usepackage{amsmath,amsthm,amssymb,amsfonts}
   \usepackage{listings}
