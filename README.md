@@ -9,6 +9,7 @@ Each notebook contains implementation and examples of different methods used in 
 - [Finite Difference Methods](#finite-difference-methods)
 - [Heston Model & Numerical Integration](#heston-model-and-numerical-integration)
 - [Monte Carlo Simulation](#monte-carlo-simulation)
+- [Asian Options](#asian-options)
 - [Future Updates](#future-updates)
 
 ## Black-Scholes Merton
@@ -45,6 +46,10 @@ Each notebook contains implementation and examples of different methods used in 
 - Generating Correlated Brownian Motion
 - Pricing Basket Options
 - Exotic Basket option
+
+## Asian Options
+- Arithmetic Asian Option
+- Geometric Asian Option
 
 ## Future Updates
 - Implementing all codes in both R and Python
