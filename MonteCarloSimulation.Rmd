@@ -36,11 +36,22 @@ header-includes:
   \usepackage{physics}
 ---
 
+#### Table of Contents
+- [European Options-GBM](#european-options-gbm)
+  * [Other Monte Carlo Schemes](#other-monte-carlo-schemes)
+    + [MC with Antithetic Variates](#mc-with-antithetic-variates)
+    + [MC with Delta-based Control Variate](#mc-with-delta-based-control-variate)
+    + [MC with both Antithetic Variates and Delta-based Control Variate](#mc-with-both-antithetic-variates-and-delta-based-control-variate)
+    + [Comaring The Methods](#comaring-the-methods)
+- [Heston Model](#heston-model)
+- [Generating Correlated Brownian Motion](#generating-correlated-brownian-motion)
+- [Pricing Basket Options](#pricing-basket-options)
+- [Exotic Basket option.](#exotic-basket-option)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<!-- # Monte Carlo Simulation -->
 This file discusses various implementations of the Monte Carlo simluation.
 
 # European Options-GBM
