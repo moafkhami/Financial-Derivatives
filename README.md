@@ -9,7 +9,7 @@ Each notebook contains implementation and examples of different methods used in 
 - [Finite Difference Methods](#finite-difference-methods)
 - [Heston Model & Numerical Integration](#heston-model-and-numerical-integration)
 - [Monte Carlo Simulation](#monte-carlo-simulation)
-
+- [Future Updates](#future-updates)
 
 ## Black-Scholes Merton
 - European Call and Put-GBM
@@ -28,7 +28,8 @@ Each notebook contains implementation and examples of different methods used in 
 - Implicit Finite Difference
 - Crank-Nicolson Finite Difference
 
-## Heston Model and Numerical Integration
+<a name="heston-model-and-numerical-integration"></a>
+## Heston Model & Numerical Integration
 - Numerical Integrarion
   - Trapezoidal
   - Simpson’s quadrature
